@@ -1,0 +1,24 @@
+{
+  "name": "targetz",
+  "version": "1.0.0",
+  "description": "creating of keyhashs to obscure serverpaths. keyhashs will be created based of the user and coockies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarionWhite/targetz.git"
+  },
+  "keywords": [
+    "html",
+    "server-security",
+    "javascript"
+  ],
+  "author": "karion",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KarionWhite/targetz/issues"
+  },
+  "homepage": "https://github.com/KarionWhite/targetz#readme"
+}
